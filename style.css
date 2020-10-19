@@ -1009,11 +1009,11 @@ vertical-align: middle;
     margin-top: 10px;
 }
   .header__container{
-    width: 70%;
+    width: 100%;
     padding: 0;
   }
   .header__menu {
-    width: 70%;
+    width: 100%;
 }
   .header{
     background-color:#fff;
@@ -1022,12 +1022,11 @@ vertical-align: middle;
     position: fixed;
     top: 0;
     left: 0;
-    width: 70%;
+    width: 100%;
     z-index: 4;
   }
   .header__logo{
     padding: 12px 20px 12px 20px;
-    widht: 70%
   }
   .header__el {
     display: block;
@@ -1197,10 +1196,10 @@ vertical-align: middle;
     margin-bottom: 5px;
 }
   .site__title {
-    font-size: 24px;
+    font-size: 18px;
 }
   .site__subtitle {
-    font-size: 18px;
+    font-size: 16px;
     margin: 10px 0 20px 0;
   }
   .site__img {
