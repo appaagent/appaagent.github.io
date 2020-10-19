@@ -1009,11 +1009,11 @@ vertical-align: middle;
     margin-top: 10px;
 }
   .header__container{
-    width: 100%;
+    width: 70%;
     padding: 0;
   }
   .header__menu {
-    width: 100%;
+    width: 70%;
 }
   .header{
     background-color:#fff;
@@ -1022,11 +1022,12 @@ vertical-align: middle;
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 70%;
     z-index: 4;
   }
   .header__logo{
     padding: 12px 20px 12px 20px;
+    widht: 70%
   }
   .header__el {
     display: block;
