@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: appaagent.github.io
+Token: b88b80d17a7310a4847ad9ab7a0874fad56f2b73cc5ca969a58d678c65a407fe
